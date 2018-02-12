@@ -1,0 +1,2 @@
+# Crptonight-CPU
+Crptonight-CPU
